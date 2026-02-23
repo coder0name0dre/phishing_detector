@@ -1,0 +1,16 @@
+Subject: URGENT: Immediate Verification Request
+
+Dear Customer,
+
+We detected suspicious activity related to your recent invoice.
+
+Your account access has expired due to failed verification attempts.
+
+You must verify your account immediately to prevent expiration of services.
+
+Click here to complete verification:
+http://secure-bank-verification456-login.com/auth
+
+Failure to follow up on this request will result in permanent account closure.
+
+Security Department
